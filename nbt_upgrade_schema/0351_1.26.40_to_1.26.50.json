@@ -142,6 +142,16 @@
                 "string": "none"
             }
         },
+        "minecraft:cinnabar_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:cinnabar_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
         "minecraft:cobbled_deepslate_stairs": {
             "minecraft:corner": {
                 "string": "none"
@@ -794,6 +804,11 @@
                 "string": "none"
             }
         },
+        "minecraft:polished_cinnabar_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
         "minecraft:polished_deepslate_stairs": {
             "minecraft:corner": {
                 "string": "none"
@@ -809,7 +824,31 @@
                 "string": "none"
             }
         },
+        "minecraft:polished_sulfur_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
         "minecraft:polished_tuff_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:poplar_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:poplar_stairs": {
             "minecraft:corner": {
                 "string": "none"
             }
@@ -922,6 +961,16 @@
             }
         },
         "minecraft:stone_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:sulfur_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:sulfur_stairs": {
             "minecraft:corner": {
                 "string": "none"
             }
